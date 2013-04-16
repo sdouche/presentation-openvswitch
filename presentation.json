@@ -1,0 +1,11 @@
+{
+        "title": "OpenVSwitch",
+        "author": "Sébastien Douche",
+        "theme": "memories",
+        "duration": 30,
+        "sections": {
+                "intro": "Introduction",
+                "openvswitch": "OpenVSwitch",
+		"controler": "Controlleur"
+        }
+}
